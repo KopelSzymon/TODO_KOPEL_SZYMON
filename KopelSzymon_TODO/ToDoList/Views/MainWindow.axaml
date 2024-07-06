@@ -6,7 +6,7 @@
         xmlns:view="using:ToDoList.Views"
         x:Class="ToDoList.Views.MainWindow"
         Icon="/Assets/avalonia-logo.ico"
-        Title="Szymon Kopel"
+        Title="todo kopel szymon"
         Content="{Binding ContentViewModel}"
 		Width="350" Height="500"
 		>
